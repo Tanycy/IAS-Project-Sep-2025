@@ -22,7 +22,7 @@ The network uses a hybrid topology:
 Section	Topology	Description
 IT	Star	PCs connected to a central switch
 HR	Hierarchical	Router → Switches → PCs
-IS	Partial Mesh	Multiple interconnected switches (redundancy)
+IS  Mesh	Multiple interconnected switches (redundancy)
 CS	Wireless Star	Wireless router serving devices
 Server Room	Star	Servers connected via switch through ASA firewall
 Core Backbone	Hierarchical	MAIN router acts as central routing point
